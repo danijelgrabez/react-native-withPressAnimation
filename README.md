@@ -1,3 +1,5 @@
+<img src="http://www.danijelgrabez.com/public-links/github/react-native-withPressAnimation/react-native-withPressAnimation.gif" width="320" alt= "Example usage of withPressAnimation higher order component on Button component">
+
 # React Native `withPressAnimation`
 
 A higher order component which provides onPress animation for React Native component. 

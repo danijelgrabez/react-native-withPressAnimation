@@ -1,8 +1,8 @@
 {
-  "name": "withpressanimation",
+  "name": "react-native-withPressAnimation",
   "version": "0.0.0",
-  "description": "No description",
-  "author": null,
+  "description": "Press animation higher order component for React Native.",
+  "author": "Danijel Grabez",
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
