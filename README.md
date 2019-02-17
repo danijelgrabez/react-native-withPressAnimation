@@ -1,6 +1,7 @@
 # withPressAnimation
 
-A higher order component which provides onPress animation for React Native component.
+A higher order component which provides onPress animation for React Native component. 
+Demo 👉[Expo Snack](https://snack.expo.io/@danijelgrabez/withpressanimation).
 
 ### Props which will be received from the component
 - `onPress`
